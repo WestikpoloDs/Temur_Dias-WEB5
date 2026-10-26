@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+nav { background: #333; padding: 10px; }
+nav a { color: #fff; margin-right: 12px; text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+main { padding: 20px; }
+#styleBox { padding: 20px; border: 1px solid #333; margin: 10px 0; }
+#mouseBox { width: 200px; height: 100px; background: lightblue; margin-top: 10px; }
+.done { text-decoration: line-through; }
